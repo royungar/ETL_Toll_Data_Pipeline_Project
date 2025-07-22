@@ -112,10 +112,10 @@ ETL_Toll_Data_Project/
 ├── docs/
 │   └── fileformats.txt               # Provided documentation for file formats and field positions
 ├── images/                           # Screenshots showing DAG submission, activation, run status, and task success
-│   ├── dag_paused.png                # DAG listed in Airflow but paused (Task 4.1)
-│   ├── dag_active.png                # DAG unpaused and active (Task 4.2)
-│   ├── dag_tasks_success.png         # Visual confirmation of successful task execution (Task 4.3)
-│   ├── dag_run_triggered.png         # Screenshot of DAG run and timing info (Task 4.4)
+│   ├── dag_paused.png                # DAG listed in Airflow but paused
+│   ├── dag_active.png                # DAG unpaused and active
+│   ├── dag_tasks_success.png         # Visual confirmation of successful task execution
+│   ├── dag_run_triggered.png         # Screenshot of DAG run and timing info
 ```
 
 ---
