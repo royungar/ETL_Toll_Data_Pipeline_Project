@@ -148,9 +148,6 @@ This project was completed as part of the IBM Data Engineering Professional Cert
 
 ## Links
 
-ETL and Data Pipelines with Shell, Airflow, and Kafka - (https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka)
-GitHub Repository - (https://github.com/royungar)
-
 - Course Page - [ETL and Data Pipelines with Shell, Airflow, and Kafka](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka)
 - [GitHub Profile](https://github.com/royungar)
 - [GitHub Repository](https://github.com/royungar/Toll_Data_ETL_Project)
