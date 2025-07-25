@@ -1,4 +1,4 @@
-# ETL Toll Data Project – IBM Data Engineering Professional Certificate
+# Toll Data ETL Project – IBM Data Engineering Professional Certificate
 
 ## Overview
 
@@ -94,7 +94,7 @@ Fields:
 ## Repository Structure
 
 ```plaintext
-ETL_Toll_Data_Project/
+Toll_Data_ETL_Project/
 ├── README.md                         # Project overview, objectives, tools, and instructions
 ├── airflow/
 │   └── ETL_toll_data.py              # Final Airflow DAG script automating the ETL pipeline
@@ -150,3 +150,7 @@ This project was completed as part of the IBM Data Engineering Professional Cert
 
 ETL and Data Pipelines with Shell, Airflow, and Kafka - (https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka)
 GitHub Repository - (https://github.com/royungar)
+
+- Course Page - [ETL and Data Pipelines with Shell, Airflow, and Kafka](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka)
+- [GitHub Profile](https://github.com/royungar)
+- [GitHub Repository](https://github.com/royungar/Toll_Data_ETL_Project)
