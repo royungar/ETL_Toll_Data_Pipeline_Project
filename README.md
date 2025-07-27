@@ -1,4 +1,4 @@
-# Toll Data ETL Project – IBM Data Engineering Professional Certificate
+# ETL Toll Data Pipeline Project – IBM Data Engineering Professional Certificate
 
 ## Overview
 
@@ -67,17 +67,17 @@ The pipeline outputs a cleaned, consolidated file:
 data/staging/transformed_data.csv
 ```
 
-Fields:
+This file contains the following fields:
 
-- Rowid
-- Timestamp
-- Anonymized Vehicle number
-- Vehicle type (uppercase)
-- Number of axles
-- Tollplaza id
-- Tollplaza code
-- Type of Payment code
-- Vehicle Code
+- **Rowid**
+- **Timestamp**
+- **Anonymized Vehicle number**
+- **Vehicle type** (converted to uppercase)
+- **Number of axles**
+- **Tollplaza id**
+- **Tollplaza code**
+- **Type of Payment code**
+- **Vehicle Code**
 
 ---
 
@@ -94,7 +94,7 @@ Fields:
 ## Repository Structure
 
 ```plaintext
-Toll_Data_ETL_Project/
+ETL_Toll_Data_Pipeline_Project/
 ├── README.md                         # Project overview, objectives, tools, and instructions
 ├── airflow/
 │   └── ETL_toll_data.py              # Final Airflow DAG script automating the ETL pipeline
@@ -111,7 +111,7 @@ Toll_Data_ETL_Project/
 │   │   └── transformed_data.csv      # Final cleaned and capitalized output file
 ├── docs/
 │   └── fileformats.txt               # Provided documentation for file formats and field positions
-├── images/                           # Screenshots showing DAG submission, activation, run status, and task success
+├── images/                           # Screenshots used for verification and documentation of DAG setup, execution, and task success
 │   ├── dag_paused.png                # DAG listed in Airflow but paused
 │   ├── dag_active.png                # DAG unpaused and active
 │   ├── dag_tasks_success.png         # Visual confirmation of successful task execution
@@ -150,4 +150,4 @@ This project was completed as part of the IBM Data Engineering Professional Cert
 
 - Course Page - [ETL and Data Pipelines with Shell, Airflow, and Kafka](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka)
 - [GitHub Profile](https://github.com/royungar)
-- [GitHub Repository](https://github.com/royungar/Toll_Data_ETL_Project)
+- [GitHub Repository](https://github.com/royungar/ETL_Toll_Data_Pipeline_Project)
